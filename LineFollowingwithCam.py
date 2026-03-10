@@ -4,6 +4,9 @@ import cv2
 import numpy as np
 import time
 
+#Project Week 2 Code
+#Line Following via Pi Camera
+
 # Camera Setup
 picam2 = Picamera2()
 picam2.configure(
@@ -176,3 +179,4 @@ finally:
     picam2.stop()
     cv2.destroyAllWindows()
     print("Program Successfully Terminated")
+
