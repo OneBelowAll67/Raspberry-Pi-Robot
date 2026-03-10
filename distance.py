@@ -1,6 +1,7 @@
 import RPi.GPIO as GPIO
 import time
-
+#Project Week 1 Code
+#Where it can travel at a user inputed distance
 GPIO.setmode(GPIO.BCM)
 #BCM Pins on Raspberry Pi
 ENA = 17
@@ -60,4 +61,5 @@ finally:
     pwmA.stop()
     pwmB.stop()
     GPIO.cleanup()
+
     print("Program has ended and GPIO cleared")
