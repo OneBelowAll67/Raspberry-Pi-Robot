@@ -111,7 +111,7 @@ def process_vision(roi_image):
             print(f"Target Acquired: {best_label} (Matches: {max_matches})")
             return annotated_image, mask, best_label
 
-    # PRIORITY 3: GEOMETRIC MATH LOGIC (Renamed to match your files)
+    # PRIORITY 3: GEOMETRIC MATH LOGIC
     contours, _ = cv2.findContours(mask, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
     best_shape_name = "NONE"
 
