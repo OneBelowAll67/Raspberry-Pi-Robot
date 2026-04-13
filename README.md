@@ -5,10 +5,10 @@ Both are Year 1 students of The University of Nottingham Malaysia Campus
 
 # General
 The hardware used for this project was a Raspberry Pi 4B+, Pi Camera Module 2 and a robot car that was built in last semester.
-Link to Last Semester's Project can be found below for more information on that:
+Link to Last Semester's Project can be found! Link:
 https://github.com/OneBelowAll67/Arduino-Car-Code
 
-This project uses a combination of AI image detection technology, simple autonomous vehicle and simple line following as a base for the robot. The AI image detection technology and line following used was from the open source OpenCV library for Contour Based line following, shape and arrow detection and ORB (Oriented Fast and Rotated Brief) detection for symbols. All documentation can be found on the following websites below! Feel free to check it out!
+This project uses a combination of AI image detection technology, simple autonomous vehicle and simple line following as a base for the robot. The AI image detection technology and line following used was from the open source OpenCV library for Contour Based line following, shape and arrow detection and ORB (Oriented Fast and Rotated Brief) detection for symbols. All documentation can be found on the following websites! Do check out these websites to understand more!
 OpenCV ORB Based Detection:
 https://www.geeksforgeeks.org/python/feature-matching-using-orb-algorithm-in-python-opencv/
 
