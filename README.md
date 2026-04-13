@@ -26,5 +26,6 @@ Some of the codes uploaded are work from other developers but ideas were given t
 
 # Acknowledgements
 The current code for detect_shapes.py was based off Lee Zhong Herng and Chin Jia Den's algorithm structure and logical flow. Thanks to Lee Zhong Herng and Chin Jia Den for providing their shape detection algorithm structure and logical flow.
+
 Additionally, the combined logic flow of Line Following and Symbol Detection was developed and tested by Wong Yan Jie (Marcus Wong). Thanks to Wong Yan Jie for providing the algorithm of the robot.
 
