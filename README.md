@@ -22,10 +22,10 @@ Contour Based Shape and Arrow Detection:
 https://docs.opencv.org/3.4/d5/d45/tutorial_py_contours_more_functions.html
 
 # Disclaimer
-Some of the codes uploaded are work from other developers but ideas were given to be implemented into it. Previous version of codes will still be uploaded to show that there was an attempt to push for original works. Do read the acknowledgements below for works that were credited!
+Some of the codes uploaded are work from other developers but ideas were given to be implemented into it. Previous version of codes will still be uploaded to show that there was an attempt to push for original works. Do read the acknowledgements below for works that were credited! Previous attempts of the code is named under week3_attemptX.py where X is the number of attempts. The final and fully functioning code is named as week3_success.py!
 
 # Acknowledgements
 The current code for detect_shapes.py was based off Lee Zhong Herng and Chin Jia Den's algorithm structure and logical flow. Thanks to Lee Zhong Herng and Chin Jia Den for providing their shape detection algorithm structure and logical flow.
 
-Additionally, the combined logic flow of Line Following and Symbol Detection was developed and tested by Wong Yan Jie (Marcus Wong). Thanks to Wong Yan Jie for providing the algorithm of the robot.
+Additionally, the combined logic flow of Line Following and Symbol Detection was developed and tested by Wong Yan Jie (Marcus Wong). Thanks to Wong Yan Jie for providing the code and algorithm of the robot.
 
